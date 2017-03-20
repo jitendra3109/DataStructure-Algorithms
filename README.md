@@ -1,2 +1,6 @@
-# DataStructure-Algorithms
-Contents code implemented in java.
+# DataStructures & Algorithms
+
+## Know the Algo Complexities!
+  
+   Asymptotic(Time & space)
+   
